@@ -12,4 +12,5 @@ programa {
 		dif = a * b - c * d
 		escreva("DIFERENCA = ",dif,"\n")
 	}
+
 }
